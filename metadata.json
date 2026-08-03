@@ -1,0 +1,6 @@
+{
+  "name": "새하얀 방 - 백성현",
+  "description": "새하얀 방에 갇힌 백성현과 당신의 밀실 탈출 및 상호작용 AI 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
